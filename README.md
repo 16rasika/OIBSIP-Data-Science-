@@ -17,5 +17,12 @@ This dataset contains the unemployment rate of all the states in India
 States = states in India Date = date which the unemployment rate observed Frequency = measuring frequency (Monthly) Estimated Unemployment Rate (%) = percentage of people unemployed in each States of India Estimated Employed = Number of people employed Estimated Labour Participation Rate (%) = The labour force participation rate is the portion of the working population in the 16-64 years' age group in the economy currently in employment or seeking employment.
 
 ## Task-3 Car-Price Prediction
-Car price prediction is a significant area of research in machine learning, aiming to forecast the price of a car based on various factors such as brand goodwill, car features, Selling_Price, Driven_kms, and more. This project focuses on developing a machine learning model to accurately predict car prices using relevant features.'
+Car price prediction is a significant area of research in machine learning, aiming to forecast the price of a car based on various factors such as brand goodwill, car features, Selling_Price, Driven_kms, and more. This project focuses on developing a machine learning model to accurately predict car prices using relevant features.
+
+
+## Task- 4 E-mail spam-classifier
+One of the primary methods for spam mail detection is email filtering. It involves categorize incoming emails into spam and non-spam. Machine learning algorithms can be trained to filter out spam mails based on their content and metadata.We’ve all been the recipient of spam emails before. Spam mail, or junk mail, is a type of email that is sent to a massive number of users at one time, frequently containing cryptic
+messages, scams, or most dangerously, phishing content.
+## Skills used: NLP,Data cleaning,Feature engineering,Tokenization,Lemmatization,Data visualization,
+
 
