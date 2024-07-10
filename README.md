@@ -27,6 +27,8 @@ Car price prediction is a significant area of research in machine learning, aimi
 ## Task- 4 E-mail spam-classifier
 One of the primary methods for spam mail detection is email filtering. It involves categorize incoming emails into spam and non-spam. Machine learning algorithms can be trained to filter out spam mails based on their content and metadata.We’ve all been the recipient of spam emails before. Spam mail, or junk mail, is a type of email that is sent to a massive number of users at one time, frequently containing cryptic
 messages, scams, or most dangerously, phishing content.
-## Skills used: NLP,Data cleaning,Feature engineering,Tokenization,Lemmatization,Data visualization,
+## Skills used: NLP,Data cleaning,Feature engineering,Tokenization,Lemmatization,Data visualization
+![E-mail-Capture](https://github.com/16rasika/Oasis-Infobyte-Internship/assets/128808554/80a9e694-4ef6-43d0-b528-63db5a574036)
+
 
 
