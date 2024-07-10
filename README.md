@@ -33,6 +33,9 @@ messages, scams, or most dangerously, phishing content.
 ## Task-5 Sales Prediction with Advertisement dataset
 The advertising dataset captures sales revenue generated with respect to advertisement spends across multiple channles like radio, tv and newspaper.which provides detailed insights into how advertising spending across different media channels influences sales outcomes. This dataset covers comprehensive advertising campaigns data and their corresponding sales, allowing us to analyze the effectiveness of media spend in generating sales revenue.
 
+![advertisement](https://github.com/16rasika/Oasis-Infobyte-Internship/assets/128808554/6cfb9270-9434-4999-9555-e4c7e24f5243)
+
+
 
 
 
