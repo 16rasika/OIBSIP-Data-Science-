@@ -21,6 +21,8 @@ States = states in India Date = date which the unemployment rate observed Freque
 ## Task-3 Car-Price Prediction
 Car price prediction is a significant area of research in machine learning, aiming to forecast the price of a car based on various factors such as brand goodwill, car features, Selling_Price, Driven_kms, and more. This project focuses on developing a machine learning model to accurately predict car prices using relevant features.
 
+![Car-Capture](https://github.com/16rasika/Oasis-Infobyte-Internship/assets/128808554/a5a3b1ef-6c65-400d-96eb-5a2a870f1d4e)
+
 
 ## Task- 4 E-mail spam-classifier
 One of the primary methods for spam mail detection is email filtering. It involves categorize incoming emails into spam and non-spam. Machine learning algorithms can be trained to filter out spam mails based on their content and metadata.We’ve all been the recipient of spam emails before. Spam mail, or junk mail, is a type of email that is sent to a massive number of users at one time, frequently containing cryptic
