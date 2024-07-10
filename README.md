@@ -30,5 +30,10 @@ messages, scams, or most dangerously, phishing content.
 ## Skills used: NLP,Data cleaning,Feature engineering,Tokenization,Lemmatization,Data visualization
 ![E-mail-Capture](https://github.com/16rasika/Oasis-Infobyte-Internship/assets/128808554/80a9e694-4ef6-43d0-b528-63db5a574036)
 
+## Task-5 Sales Prediction with Advertisement dataset
+The advertising dataset captures sales revenue generated with respect to advertisement spends across multiple channles like radio, tv and newspaper.which provides detailed insights into how advertising spending across different media channels influences sales outcomes. This dataset covers comprehensive advertising campaigns data and their corresponding sales, allowing us to analyze the effectiveness of media spend in generating sales revenue.
+
+
+
 
 
