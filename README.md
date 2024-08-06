@@ -1,7 +1,12 @@
  ## Oasis-Infobyte-Internship
 
  [Rasika Kulkarni Offer Letter.pdf]
+ 
  (https://github.com/user-attachments/files/16514761/Rasika.Kulkarni.Offer.Letter.pdf)
+
+[Rasika  Kulkarni Appreciation Certificate Oasis-Infobyte.pdf]
+(https://github.com/user-attachments/files/16514782/Rasika.Kulkarni.Appreciation.Certificate.Oasis-Infobyte.pdf)
+
  ## Task-1 IRIS Dataset
  The Iris dataset was used in R.A. Fisher's classic 1936 paper, The Use of Multiple Measurements in Taxonomic Problems, and can also be found on the UCI Machine Learning Repository.It includes three iris species 
  with 50 samples each as well as some properties about each flower. One flower species is linearly separable from the other two, but the other two are not linearly separable from each other.The columns in this dataset are:
